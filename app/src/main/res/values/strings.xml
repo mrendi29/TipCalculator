@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="price">Price in $</string>
+    <string name="num_people">Number Of People</string>
+    <string name="tip_amount">Tip %</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_price">Total Price %1$.2f $</string>
+    <string name="tip_result">Tips: %1$.2f $/person</string>
+
+</resources>
